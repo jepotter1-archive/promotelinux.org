@@ -1,7 +1,5 @@
 # promotelinux.org
 
-A website for promoting the GNU/Linux operating system https://promotelinux.org
+[![Heroku](http://heroku-badge.herokuapp.com/?app=&style=flat&svg=1)]
 
-A Pen created at CodePen.io. You can find this one at https://codepen.io/anonymous_codepen_user/pen/MEQQWr.
-
- 
+A website for promoting the GNU/Linux operating system. Uses [Pug](https://pugjs.org), [Stylus](http://stylus-lang.com), [Materialize.css](http://materializecss.com) and [Canvas.js](https://canvasjs.com).
