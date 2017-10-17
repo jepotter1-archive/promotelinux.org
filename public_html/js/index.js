@@ -1,6 +1,7 @@
 /** Draw "windows vs linux" malware chart" **/
 window.onload = function () {
 	var chart = new CanvasJS.Chart("chartContainer", {
+		animationEnabled: true,
 		data: [              
 		{
 			type: "column",
