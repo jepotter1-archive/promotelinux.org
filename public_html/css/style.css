@@ -21,4 +21,5 @@ h2 {
   margin-right: 40px;
   margin-bottom: 40px;
   height: 60px;
+  filter: grayscale(100%);
 }
