@@ -1,5 +1,5 @@
 /** Draw "windows vs linux" malware chart" **/
-window.onload = function () {
+/**window.onload = function () {
 	var chart = new CanvasJS.Chart("chartContainer", {
 		animationEnabled: true,
 		data: [              
@@ -15,4 +15,4 @@ window.onload = function () {
 		]
 	});
 	chart.render();
-}
+}**/
