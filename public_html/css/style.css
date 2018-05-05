@@ -9,10 +9,10 @@ h1 {
 }
 h2 {
   font-family: "Patua One";
-  font-size: 40px;
+  font-size: 36px;
 }
 .verybig {
-  font-size: 30px;
+  font-size: 32px;
 }
 .big {
   font-size: 20px;
@@ -22,4 +22,8 @@ h2 {
   margin-bottom: 40px;
   height: 60px;
   filter: grayscale(100%);
+  transition: filter 0.2s;
+}
+.company:hover {
+  filter: grayscale(0%);
 }
