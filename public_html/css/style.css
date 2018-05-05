@@ -27,6 +27,9 @@ h2 {
 .company:hover {
   filter: grayscale(0%);
 }
+a:hover {
+  text-decoration: dotted underline;
+}
 @media only screen and (min-width : 1224px) {
   .greybox {
     background-color: #e6e6e6;
