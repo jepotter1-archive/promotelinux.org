@@ -27,3 +27,12 @@ h2 {
 .company:hover {
   filter: grayscale(0%);
 }
+@media only screen and (min-width : 1224px) {
+  .greybox {
+    background-color: #e6e6e6;
+    margin-top: 100px;
+    padding: 50px;
+    width: 100%;
+    border-radius: 20px;
+  }
+}
