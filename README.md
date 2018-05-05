@@ -1,6 +1,6 @@
 # Promote Linux (https://www.promotelinux.org)
 
-![Heroku](http://heroku-badge.herokuapp.com/?app=hgx-stockholm-prom-prod&style=flat&svg=1)
+[![Heroku](http://heroku-badge.herokuapp.com/?app=hgx-stockholm-prom-prod&style=flat&svg=1)](https://www.promotelinux.org)
 
 A website for promoting the GNU/Linux operating system to regular PC users with little technical knowledge.
 **Issues and pull requests are much appreciated.**
