@@ -27,7 +27,7 @@ h2 {
 .company:hover {
   filter: grayscale(0%);
 }
-a:hover {
+a:not(.btn):hover {
   text-decoration: dotted underline;
 }
 @media only screen and (min-width : 1224px) {
