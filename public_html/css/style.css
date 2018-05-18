@@ -22,7 +22,7 @@ h2 {
   margin-bottom: 40px;
   height: 60px;
   filter: grayscale(100%);
-  transition: filter 0.2s;
+  transition: filter 0.1s;
 }
 .company:hover {
   filter: grayscale(0%);
