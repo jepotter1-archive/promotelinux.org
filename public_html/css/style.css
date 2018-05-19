@@ -2,6 +2,9 @@
 body {
   font-family: "Slabo 27px";
 }
+body, html {
+  overflow-x: hidden;
+}
 h1 {
   font-weight: bold;
   font-size: 90px;
